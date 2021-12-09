@@ -29,7 +29,7 @@ weather data in order to forecast hourly bike rental demand.
 
 
 
-
+ABOUT:
 
 It follows the basic procedure for creating a model that is :
 
